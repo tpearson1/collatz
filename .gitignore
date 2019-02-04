@@ -1,0 +1,15 @@
+# Personal configuration
+.clang-format
+.vscode/
+
+# Generated
+/compile_commands.json
+*.png
+/collatz
+
+# CMake
+/CMakeFiles
+*.cmake
+CPack*
+/Makefile
+/CMakeCache.txt
